@@ -1,0 +1,40 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet"  href="{%  static  'daily/styles.css'  %}">
+    <meta charset="UTF-8">
+    <title>Bothy Gazette Online</title>
+</head>
+<body>
+<div class="header">
+    <h1 style="margin-left: 400px;">Bothy Gazette</h1>
+<h2><i>For the latest and greatest in Crianlarich and the West Highlands</i> - Now Online!</h2>
+    <img style="margin-left: 200px;" src="{%  static 'daily/images/benmore.JPG' %}">
+</div>
+</br>
+<div class="headline">
+    <h2>Polecat Starts Motorcycle in Luib</h2>
+    {% now "jS F Y H:i" %}
+    <p>Polecats are rarely seen in Scotland, and even rarer in the West Highlands. That is until recently, when one of our readers spotted a wild </br>
+    polecat in their shed attempting to start their Suzuki motorcycle. It is still unclear if the polecat in question is wild or an escaped pet. The polecat </br>
+        has been remanded in custody and is awaiting trial for attempted theft.</p>
+</br>
+    Pictured below: The suspect
+    </br>
+        <img src="{%  static 'daily/images/polecat.jpg' %}">
+</div>
+<div>
+    <h3>Happy Birthday Luther Vandross  20th April 2021</h3>
+<p>Today marks what would be the American singer, Luther Vandross' 70th birthday. Mr Vandross is remembered fondly in town halls across the highlands, where his </br>
+    hits were played many a time at the end of Friday Ceidlihs across the west Highlands of Scotland.</p>
+</div>
+</br>
+<div>
+    <h3>Fallen Tree on A85 Near Glen Lochy</h3>
+    {% now "jS F Y H:i" %}
+<p>A large Scots pine tree has fallen on to the A85 near Glen Lochy. This has been reported to Stirlingshire Council who are currently attempting to move </br>
+    the fallen tree from the route. We kindly advise our readers to try and take a diversion if intending to travel through Glen Lochy to avoid delays.</p>
+</div>
+</body>
+</html>
