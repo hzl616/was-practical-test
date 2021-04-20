@@ -16,7 +16,12 @@ Project is created with:
 * HML5
 * Django 2.2
 	
-## Setup
+## Visit Online and Setup
+The project is currently hosted on pythonanywhere at:
+
+(http://hzl616.pythonanywhere.com/daily/ "WAS Practical Test - Bothy Gazette News")
+
+
 Local:
 Clone the repository, go to the project directory and start the localhost server from the comand line using
 manage.py run server
