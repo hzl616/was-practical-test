@@ -17,12 +17,12 @@ Project is created with:
 * Django 2.2
 	
 ## Visit Online and Setup
-The project is currently hosted on pythonanywhere at:
+The project is currently hosted on pythonanywhere. Visit online at:
 
 http://hzl616.pythonanywhere.com/daily/
 
 
-Local:
+Setup Locally:
 Clone the repository, go to the project directory and start the localhost server from the comand line using
 manage.py run server
 
