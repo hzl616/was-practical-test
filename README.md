@@ -19,7 +19,7 @@ Project is created with:
 ## Visit Online and Setup
 The project is currently hosted on pythonanywhere at:
 
-(http://hzl616.pythonanywhere.com/daily/ "WAS Practical Test - Bothy Gazette News")
+http://hzl616.pythonanywhere.com/daily/
 
 
 Local:
