@@ -9,12 +9,19 @@ Submission for WAS practical test. A news web application.
 ## General info
 This project runs a web application that includes a fictional local newspaper, the Bothy Gazette. 
 The Bothy Gazette covers the West Highlands and Loch Lomond National Park areas.
+
+
+![image](https://user-images.githubusercontent.com/80228762/115531774-12892b80-a28d-11eb-89a2-ce2805f3c583.png)
+
+
 	
 ## Technologies
 Project is created with:
 * Python 3.9
 * HML5
 * Django 2.2
+
+
 	
 ## Visit Online and Setup
 The project is currently hosted on pythonanywhere. Visit online at:
