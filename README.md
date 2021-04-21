@@ -18,7 +18,7 @@ The Bothy Gazette covers the West Highlands and Loch Lomond National Park areas.
 ## Technologies
 Project is created with:
 * Python 3.9
-* HML5
+* HTML5
 * Django 2.2
 
 
